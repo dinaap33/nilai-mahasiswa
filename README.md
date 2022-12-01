@@ -11,6 +11,7 @@
 
 ## Kodingan
 x = {}
+
 while True:
     c = input("\n(T)ambah, (U)bah, (H)apus, (C)ari, (L)ihat, (K)eluar: ")
 
